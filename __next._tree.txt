@@ -2,4 +2,4 @@
 :HL["/gotrot-site/_next/static/media/inter_var-s.p.3qq80i6oxohzh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/gotrot-site/_next/static/media/phenix-s.p.2aj-gftsb47w_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"7gPfdH-GsKNHGWvz_pYXq","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"2SyHEtS_V1yOJvakZunhR","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
