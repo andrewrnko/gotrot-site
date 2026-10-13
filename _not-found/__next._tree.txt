@@ -1,4 +1,4 @@
-:HL["/gotrot-site/_next/static/chunks/3pi3sfnu8ladz.css","style"]
+:HL["/gotrot-site/_next/static/chunks/07dekgdiqus67.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"j3YNhuHW2Ctwcp-nDjF9l","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"MiZtLQzAArv_wlkPAKgio","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
